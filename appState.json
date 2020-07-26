@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "ChineseAnimal.py",
         "cursor": {
-          "lineNumber": 23,
-          "column": 19
+          "lineNumber": 48,
+          "column": 52
         },
         "config": {
           "runtime": "python3.8",

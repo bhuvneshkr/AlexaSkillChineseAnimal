@@ -33,7 +33,7 @@ class ChineseAnimalIntentHandler(AbstractRequestHandler):
                 TableName="ChineseAnimal",
                 Key={
                     'BirthYear': {
-                        'N': "${year}"
+                        'N': year
                     }
                 }
             )
